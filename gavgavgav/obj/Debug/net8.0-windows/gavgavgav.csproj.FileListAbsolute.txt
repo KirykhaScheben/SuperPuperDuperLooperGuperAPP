@@ -1,0 +1,64 @@
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.exe
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.deps.json
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.runtimeconfig.json
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.dll
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.pdb
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.Form1.resources
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.AssemblyInfo.cs
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.dll
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\obj\Debug\net8.0-windows\refint\gavgavgav.dll
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.pdb
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.genruntimeconfig.cache
+C:\Users\Student\source\repos\gavgavgav\gavgavgav\obj\Debug\net8.0-windows\ref\gavgavgav.dll
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.exe
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.deps.json
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.runtimeconfig.json
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.dll
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.pdb
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.Form1.resources
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.csproj.GenerateResource.cache
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.AssemblyInfo.cs
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.dll
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\obj\Debug\net8.0-windows\refint\gavgavgav.dll
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.pdb
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.genruntimeconfig.cache
+C:\Users\Student\Documents\PhotoApp-main\gavgavgav\obj\Debug\net8.0-windows\ref\gavgavgav.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.exe
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.deps.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.runtimeconfig.json
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.Form1.resources
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.csproj.GenerateResource.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.AssemblyInfoInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.AssemblyInfo.cs
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.csproj.CoreCompileInputs.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\refint\gavgavgav.dll
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.pdb
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.genruntimeconfig.cache
+\\192.168.3.250\Veda\3 курс\ИСП 33-9, ИСП 34-11\МДК 03.02\Пакеев\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\ref\gavgavgav.dll
+C:\Users\student\source\repos\ForGitHub\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.exe
+C:\Users\student\source\repos\ForGitHub\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.deps.json
+C:\Users\student\source\repos\ForGitHub\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.runtimeconfig.json
+C:\Users\student\source\repos\ForGitHub\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.dll
+C:\Users\student\source\repos\ForGitHub\gavgavgav\bin\Debug\net8.0-windows\gavgavgav.pdb
+C:\Users\student\source\repos\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.Form1.resources
+C:\Users\student\source\repos\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.csproj.GenerateResource.cache
+C:\Users\student\source\repos\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.AssemblyInfo.cs
+C:\Users\student\source\repos\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.dll
+C:\Users\student\source\repos\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\refint\gavgavgav.dll
+C:\Users\student\source\repos\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.pdb
+C:\Users\student\source\repos\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\gavgavgav.genruntimeconfig.cache
+C:\Users\student\source\repos\ForGitHub\gavgavgav\obj\Debug\net8.0-windows\ref\gavgavgav.dll
